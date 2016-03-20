@@ -18,9 +18,13 @@ This dataset contains a summary of the UCI Machine Learning "Human Activity Reco
 ### Analysis
 For the analysis that was done, the following steps were conducted:
 1. The training and test datasets are merged to one single dataset
+
 2. Only the measurements on the mean and standard deviation for each measurement are selected
+
 3. Activities are labeled (so the set contains an activity identifier and a label)
+
 4. Variable names are labeled
+
 5. A summary with means of each variable for each activity and each subject is made
 
 **Thorough explaination is given in the comments of the script 'run_analysis.R'**
